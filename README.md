@@ -32,3 +32,4 @@ cd "your repository"
 * When you finish your code edit or do some other changes have been made to the project, you can pushh your change to Github in this way. 
 
 ![image](IMG/Push.png)
+
