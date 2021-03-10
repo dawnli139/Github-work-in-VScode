@@ -33,4 +33,4 @@ cd "your repository"
 
 ![image](IMG/Push.png)
 
-Then you can during basic operate of Github in VScode.  
+Then you can during basic operate of Github in VScode. 
