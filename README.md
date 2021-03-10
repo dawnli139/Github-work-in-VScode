@@ -29,7 +29,7 @@ cd "your repository"
 
 ## 4. Push your change to Github
 
-* When you finish your code edit or do some other changes have been made to the project, you can pushh your change to Github in this way. 
+* When you finish your code edit or do some other changes have been made to the project, you can push your change to Github in this way. 
 
 ![image](IMG/Push.png)
 
