@@ -5,7 +5,7 @@ It will show you how to use GitHub in VScode
 
 
 
-## 2. Git config
+## 2. Setting config in VScode terminal
 
 ```shell
 
@@ -14,6 +14,7 @@ git config --global user.email "your github email"
 
 ```
 
+## Clone(Pull) repository and move to workspace in VScode
 
+* Open VScode in your work folder
 
-## Clone
