@@ -2,7 +2,14 @@
 
 It will show you how to use GitHub in VScode. 
 
-## 1. Create a repository and init it
+## 1. Setting config in VScode terminal
+
+```shell
+git config --global user.name "your github name" 
+git config --global user.email "your github email"
+```
+
+## 2. Create a repository and init it
 
 ![image](IMG/Create&init.png)
 
@@ -14,13 +21,6 @@ git add README
 git commit -m 'First commit'
 ```
 
-## 2. Setting config in VScode terminal
-
-```shell
-git config --global user.name "your github name" 
-git config --global user.email "your github email"
-```
-
 ## 3. Clone(Pull) repository
 ### Clone
 
@@ -30,6 +30,8 @@ git config --global user.email "your github email"
 git clone  https://github.com/*****.git
 cd "your repository"
 ```
+
+(If you have initialized the repository at your work folder, then you do not have to do this step.)
 
 ### Pull
 
@@ -50,9 +52,11 @@ git pull origin master
 This operation is equivalent to typing in the VScode terminal:
 
 ```shell
-git add .
+# git add .
 git commit -m 'update some file'
 git push origin master
 ```
+
+(When you add file to your repository and you can use the "git add ." command.)
 
 # Then you can during basic operate of Github in VScode. 
