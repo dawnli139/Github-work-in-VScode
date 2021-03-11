@@ -6,7 +6,7 @@ It will show you how to use GitHub in VScode.
 
 ![image](IMG/Create&init.png)
 
-This operation is equivalent to typing in the VSCode terminal:
+This operation is equivalent to typing in the VScode terminal:
 
 ```shell
 git init
@@ -35,7 +35,7 @@ cd "your repository"
 
 ![image](IMG/Pull.png)
 
-This operation is equivalent to typing in the VSCode terminal:
+This operation is equivalent to typing in the VScode terminal:
 
 ```shell
 git pull origin master
@@ -47,7 +47,7 @@ git pull origin master
 
 ![image](IMG/Push.png)
 
-This operation is equivalent to typing in the VSCode terminal:
+This operation is equivalent to typing in the VScode terminal:
 
 ```shell
 git push origin master
