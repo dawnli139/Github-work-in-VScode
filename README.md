@@ -50,6 +50,8 @@ git pull origin master
 This operation is equivalent to typing in the VScode terminal:
 
 ```shell
+git add .
+git commit -m 'update some file'
 git push origin master
 ```
 
