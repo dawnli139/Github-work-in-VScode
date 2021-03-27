@@ -52,11 +52,11 @@ git pull origin master
 This operation is equivalent to typing in the VScode terminal:
 
 ```shell
-# git add .
+git add .
 git commit -m 'update some file'
 git push origin master
 ```
 
-(When you add file to your repository and you can use the "git add ." command.)
+(In VScode, when you add file to your repository and you don't need to use the "git add ." command.)
 
-# Then you can during basic operate of Github in VScode and. 
+# Then you can during basic operate of Github in VScode. 
