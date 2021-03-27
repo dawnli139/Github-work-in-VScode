@@ -59,4 +59,4 @@ git push origin master
 
 (When you add file to your repository and you can use the "git add ." command.)
 
-# Then you can during basic operate of Github in VScode. 
+# Then you can during basic operate of Github in VScode and. 
