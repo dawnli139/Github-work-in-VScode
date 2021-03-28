@@ -40,6 +40,8 @@ cd "your repository"
 This operation is equivalent to typing in the VScode terminal:
 
 ```shell
+git stash
+git reset --hard
 git pull origin master
 ```
 
